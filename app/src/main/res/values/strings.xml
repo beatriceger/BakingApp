@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">Start the app to display a recipe!</string>
+    <string name="add_widget">Add widget</string>
+</resources>
